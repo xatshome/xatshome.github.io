@@ -1,4 +1,5 @@
-# Contributed Assets
+# XATSHOME/contrib
+For various contributed assets to XATSHOME.
 
 ## [githwxi/pground](./githwxi/pground/.)
 

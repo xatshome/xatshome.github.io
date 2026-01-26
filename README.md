@@ -11,6 +11,8 @@ poly-services (dynamic). However, its precise functionalities are yet
 to be clarified.
 -->
 
+## [Internal Assets](./xassets/.)
+
 ## [Contributed Assets](./contrib/.)
 
 <!--
